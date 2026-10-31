@@ -90,7 +90,3 @@ with st.expander("Try sample messages"):
     st.write("**Spam-like example:** Congratulations! You have won a prize. Click this link now.")
 
 st.divider()
-st.markdown(
-    '<p class="small-note">College mini project · Python · Scikit-learn · Streamlit</p>',
-    unsafe_allow_html=True
-)
